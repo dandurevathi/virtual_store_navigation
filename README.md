@@ -40,6 +40,9 @@ Mini-map for navigation
 More immersive UI and animations
 
 Video
-https://github.com/user-attachments/assets/923eb4ca-ba53-4200-86a0-a8e2c8309b8b
+https://github.com/user-attachments/assets/93d8fb98-26da-46a2-9ded-f3a23710005d
+
+
+
 
 
